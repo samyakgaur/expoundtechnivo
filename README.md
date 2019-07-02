@@ -11,6 +11,6 @@
 
     At EXPOUND we are small enough that every project is important, and large enough to assure that every project will get done, on time and on budget.
     
-deploy url: https://expoundtechnivo.com
+Deploy url: https://expoundtechnivo.com
 
 
